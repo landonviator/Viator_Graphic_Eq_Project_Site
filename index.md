@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Viator 561 Graphic Eq
 
-You can use the [editor on GitHub](https://github.com/landonviator/Viator_Graphic_Eq_Project_Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A software re-imagine of the API 560 Eq Module.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
